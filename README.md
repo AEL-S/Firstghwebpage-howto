@@ -1,4 +1,4 @@
-# firstghwebpage-howto
+# Firstghwebpage-howto
 
 Assignment: Explain to a new programmer how they can create their first GitHub page. 
 
